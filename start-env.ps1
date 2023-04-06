@@ -1,0 +1,1 @@
+docker run --name net -td --mount type=bind,source=$($PSScriptRoot),destination=/mnt youngyee/cs144-dev
