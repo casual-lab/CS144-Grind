@@ -1,3 +1,6 @@
 [submodule "minnow"]
 	path = minnow
 	url = https://github.com/CS144/minnow.git
+[submodule "cmake-examples"]
+	path = cmake-examples
+	url = https://github.com/casual-lab/cmake-examples.git
